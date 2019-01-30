@@ -8,7 +8,7 @@
 #Model from  https://github.com/BVLC/caffe/tree/master/models/bvlc_alexnet
 #Weights from Caffe converted using https://github.com/ethereon/caffe-tensorflow
 #
-#
+# lalala
 ################################################################################
 
 import sys
